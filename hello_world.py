@@ -1,9 +1,5 @@
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-"""
-Created on Thu Nov 18 10:38:41 2021
-
-@author: dylan
-"""
+import sys
 
 print('Hello World!')
+
+sys.exit(0)
